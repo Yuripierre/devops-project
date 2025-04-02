@@ -47,5 +47,8 @@ jobs:
 
       - name: Aplicar deploy no Kubernetes
         run: kubectl apply -f kubernetes/deployment.yaml
+<<<<<<< HEAD
 
+
+=======
 
